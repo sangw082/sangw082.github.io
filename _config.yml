@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Data Artist" # 블로그 타이틀
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "상우의 데이터 놀이터" # 블로그 서브 타이틀 
 name                     : "Your Name"
 description              : "An amazing website."
 url                      :  "https://sangw082.github.io"
